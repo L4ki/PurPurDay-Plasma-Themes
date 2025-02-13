@@ -1,0 +1,13 @@
+[X-GNOME-Metatheme]
+Name=PurPurDay-GTK
+Name[en_GB]=PurPurDay-GTK
+
+Type=X-GNOME-Metatheme
+Comment=There is only one
+Comment[en_GB]=There is only one
+
+Encoding=UTF-8
+GtkTheme=PurPurDay-GTK
+IconTheme=PurPurDay-GTK
+CursorTheme=PurPurDay-GTK
+CursorSize=24
