@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "",
+        "Dependencies": [
+        ],
+        "Description": "PurPurDayBlur Window Decorations",
+        "EnabledByDefault": true,
+        "Id": "PurPurDayBlur-Aurorae-6",
+        "License": "GPLv3",
+        "Name": "PurPurDayBlur-Aurorae-6",
+        "Version": "1.0"
+    }
+}
