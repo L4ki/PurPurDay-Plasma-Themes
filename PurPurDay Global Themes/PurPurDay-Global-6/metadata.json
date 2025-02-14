@@ -20,16 +20,16 @@
         "Website": "https://github.com/L4ki/PurPurDay-Plasma-Themes"
     },
     "X-KPackage-Dependencies": [
-        "kns://window-decorations.knsrc/api.kde-look.org/2255173",
-        "kns://window-decorations.knsrc/api.kde-look.org/2255177",
-        "kns://colorschemes.knsrc/api.kde-look.org//2255149",
+        "kns://window-decorations.knsrc/api.kde-look.org/2261506",
+        "kns://window-decorations.knsrc/api.kde-look.org/2261508",
+        "kns://colorschemes.knsrc/api.kde-look.org/2261502",
         "kns://icons.knsrc/api.kde-look.org/2234790",
         "kns://icons.knsrc/api.kde-look.org/2234789",
         "kns://icons.knsrc/api.kde-look.org/2192424",
-        "kns://plasma-themes.knsrc/api.kde-look.org/2255181",
-        "kns://wallpaper.knsrc/api.kde-look.org/2255098",
-        "kns://wallpaper.knsrc/api.kde-look.org/2255102",
-        "kns://wallpaper.knsrc/api.kde-look.org/2255109",
-        "kns://sddmtheme.knsrc/api.kde-look.org/2255143"
+        "kns://plasma-themes.knsrc/api.kde-look.org/2261515",
+        "kns://wallpaper.knsrc/api.kde-look.org/2261494",
+        "kns://wallpaper.knsrc/api.kde-look.org/2261492",
+        "kns://wallpaper.knsrc/api.kde-look.org/2261493",
+        "kns://sddmtheme.knsrc/api.kde-look.org/2261501"
     ]
 }
