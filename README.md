@@ -1,7 +1,7 @@
 # PurPurDay-Plasma-Themes
 PurPurDay Themes For Plasma Desktop
 
-Download: In preparation
+Download: https://www.pling.com/p/2261515/
 ------------------------------------------
 
 
