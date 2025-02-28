@@ -53,4 +53,4 @@ Update: gtk-4.0
 Plasma Theme
 ------------
 
-Update widget: metadata.json
+Update: metadata.json
