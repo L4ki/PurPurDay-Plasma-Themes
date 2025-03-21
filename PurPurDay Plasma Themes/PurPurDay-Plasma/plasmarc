@@ -11,7 +11,6 @@ enabled=true
 [AdaptiveTransparency]
 enabled=true
 
-
 [Wallpaper]
 defaultWallpaperTheme=PurPurDay
 defaultFileSuffix=.png
