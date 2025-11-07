@@ -42,15 +42,15 @@ Screenshot:
 
 ![PurPurDay-With Plasma Logo](https://github.com/user-attachments/assets/e6d86952-5780-4b26-a7c7-12efd28dcfe7)
 
-Changelog: 31.10.2025.
+Changelog: 07.11.2025.
 ----------------------
 
 GTK-Theme
 ----------
 
-Update: window_decorations.css
+Update: hacks.rc
 
 Plasma Theme
 ------------
 
-Update: metadata.json
+Update: metadata.desktop
